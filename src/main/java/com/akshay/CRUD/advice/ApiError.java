@@ -1,5 +1,6 @@
 package com.akshay.CRUD.advice;
 
+import lombok.Builder;
 import lombok.Data;
 import org.springframework.http.HttpStatus;
 
